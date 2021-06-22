@@ -10,7 +10,7 @@ If you care about your dog and only wants the very best for your four legged fri
 <div style='display: flex;'>
 <div>
 
-<img src='https://themusher.no/pho/about/the-musher-an-app-for-dog-people/simpleBlog-596c5633-3f1a-4c4e-85a4-4f9a4791796c.png?w=200' width='200'>
+<img src='https://themusher.no/pho/about/the-musher-an-app-for-dog-people/simpleBlog-596c5633-3f1a-4c4e-85a4-4f9a4791796c.png' width='200'>
 
 </div>
 <div>
