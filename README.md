@@ -1,6 +1,6 @@
 ### Hi 👋
 
-My main project these days are an app called The Musher.
+My hobby project these days are an app called The Musher.
 
 ## The Musher - An app for dog care
 
